@@ -1,3 +1,4 @@
-# EN.650.631 Ethical Hacking
- Johns Hopkins EN.650.631 Ethical Hacking
+# EN.650.757Advanced Computer Forensics
+ Johns Hopkins EN.650.757	Advanced Computer Forensics 
+ 
  Grade: A+
